@@ -17,7 +17,7 @@ You need to do following
 1. Design CarFi API data schema
 2. Save sample data in https://www.jsonblob.com/new
 3. Access the CarFi data from android app and save it in local database
-4. A dashboard screen to show summary about one car's stats relevant for traffic polic
+4. A dashboard screen to show summary about one car's stats relevant for traffic polic. Use graphs as much as you can to show the information.
 
 #####Instructions:
 You need to show one page only for stats of a specific car. 
