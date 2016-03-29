@@ -23,6 +23,8 @@ You need to do following
 You need to show one page only for stats of a specific car. 
 
 Keep CarFi API data minimal only as much as you need to show in dashboard.
+
+How CarFi works is beyond the scope of this hackathon, just assume that you can get the data through http APIs.
  
 #####For evaluation we will need
 1. Screenshots of the app screen
